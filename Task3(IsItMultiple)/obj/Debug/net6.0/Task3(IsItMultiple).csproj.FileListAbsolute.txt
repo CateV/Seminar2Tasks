@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\bin\Debug\net6.0\Task3(IsItMultiple).exe
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\bin\Debug\net6.0\Task3(IsItMultiple).deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\bin\Debug\net6.0\Task3(IsItMultiple).runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\bin\Debug\net6.0\Task3(IsItMultiple).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\bin\Debug\net6.0\Task3(IsItMultiple).pdb
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\refint\Task3(IsItMultiple).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).pdb
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\Task3(IsItMultiple).genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task3(IsItMultiple)\obj\Debug\net6.0\ref\Task3(IsItMultiple).dll
