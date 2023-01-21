@@ -1,0 +1,5 @@
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task1(TheLastFigureOfANumber\obj\Debug\net6.0\Task1(TheLastFigureOfANumber.csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task1(TheLastFigureOfANumber\obj\Debug\net6.0\Task1(TheLastFigureOfANumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task1(TheLastFigureOfANumber\obj\Debug\net6.0\Task1(TheLastFigureOfANumber.AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task1(TheLastFigureOfANumber\obj\Debug\net6.0\Task1(TheLastFigureOfANumber.AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task1(TheLastFigureOfANumber\obj\Debug\net6.0\Task1(TheLastFigureOfANumber.csproj.CoreCompileInputs.cache
