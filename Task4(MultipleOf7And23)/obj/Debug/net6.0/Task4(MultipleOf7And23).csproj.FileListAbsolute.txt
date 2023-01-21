@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\bin\Debug\net6.0\Task4(MultipleOf7And23).exe
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\bin\Debug\net6.0\Task4(MultipleOf7And23).deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\bin\Debug\net6.0\Task4(MultipleOf7And23).runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\bin\Debug\net6.0\Task4(MultipleOf7And23).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\bin\Debug\net6.0\Task4(MultipleOf7And23).pdb
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\refint\Task4(MultipleOf7And23).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).pdb
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\Task4(MultipleOf7And23).genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task4(MultipleOf7And23)\obj\Debug\net6.0\ref\Task4(MultipleOf7And23).dll
