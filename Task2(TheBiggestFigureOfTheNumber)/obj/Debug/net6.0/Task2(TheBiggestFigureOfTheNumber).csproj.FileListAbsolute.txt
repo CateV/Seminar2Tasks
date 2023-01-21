@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\bin\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).exe
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\bin\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\bin\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\bin\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\bin\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).pdb
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\refint\Task2(TheBiggestFigureOfTheNumber).dll
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).pdb
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\Task2(TheBiggestFigureOfTheNumber).genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\2.С#\SEMINAR2\Task2(TheBiggestFigureOfTheNumber)\obj\Debug\net6.0\ref\Task2(TheBiggestFigureOfTheNumber).dll
