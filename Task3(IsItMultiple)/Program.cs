@@ -12,11 +12,11 @@ int InputStringToInt(string message)
 }
 int firstNumber = InputStringToInt("введите первое число");
 int secondNumber = InputStringToInt("введите второе число");
-if (secondNumber%firstNumber==0)
+if (secondNumber % firstNumber == 0)
 {
     System.Console.WriteLine($"Число {secondNumber} кратно числу {firstNumber}");
 }
-else 
+else
 {
-    System.Console.WriteLine($"Число {secondNumber} не кратно числу {firstNumber}, остаток равен {secondNumber%firstNumber}");
+    System.Console.WriteLine($"Число {secondNumber} не кратно числу {firstNumber}, остаток равен {secondNumber % firstNumber}");
 }
