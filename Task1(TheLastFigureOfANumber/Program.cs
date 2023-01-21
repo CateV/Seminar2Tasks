@@ -15,5 +15,8 @@ if (number < 99 || number > 999)
 {
     System.Console.WriteLine("число не трёхзначное");
 }
-int theThirdFigure = number % 10;
-System.Console.WriteLine(theThirdFigure);
+else
+{
+    int theThirdFigure = number % 10;
+    System.Console.WriteLine(theThirdFigure);
+}
